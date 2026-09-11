@@ -1,0 +1,4 @@
+document_id,title,type,subsystem,version,date,status
+DOC-001,Hydraulic Troubleshooting Guide,Guide,Hydraulic System,v1.0,2026-09-11,prototype-demo
+DOC-002,Hydraulic Filter SOP,SOP,Filter,v1.0,2026-09-11,prototype-demo
+DOC-003,Cooling System SOP,SOP,Cooler,v1.0,2026-09-11,prototype-demo

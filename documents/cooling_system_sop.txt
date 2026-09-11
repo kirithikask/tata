@@ -1,0 +1,44 @@
+[PROTOTYPE DEMO DOCUMENT -- NOT AN OFFICIAL TATA HITACHI SERVICE DOCUMENT]
+
+COOLING SYSTEM - STANDARD OPERATING PROCEDURE
+Excavator Hydraulic Oil Cooler - Inspection and Service
+
+1. PURPOSE
+This SOP describes standard steps for inspecting and servicing the
+hydraulic oil cooler on excavators, written for the Engineering Memory
+prototype as demo reference data.
+
+2. WHEN TO INSPECT
+Inspect the cooler when oil temperature readings trend higher than normal,
+when hydraulic performance degrades after extended operating periods (a
+pattern often described as "fine in the morning, slow by afternoon"), or at
+the standard scheduled service interval.
+
+3. SAFETY PREPARATION
+Shut down the engine and allow the cooler and surrounding components to
+cool before inspection. Wear eye protection when using compressed air or a
+pressure washer near the cooler fins.
+
+4. VISUAL INSPECTION
+Step 1: Locate the oil cooler, typically mounted near the radiator.
+Step 2: Visually inspect the fins for dirt, mud, or debris buildup.
+Step 3: Check for bent or damaged fins that would restrict airflow.
+Step 4: Inspect the cooling fan belt for wear, cracking, or looseness.
+
+5. CLEANING PROCEDURE
+Step 1: Use low-pressure compressed air or a pressure washer, directed
+opposite to normal airflow, to clear debris from the fins.
+Step 2: Avoid bending fins during cleaning; work in small sections.
+Step 3: Inspect fan belt tension and adjust or replace if loose or worn.
+Step 4: Confirm the cooling fan spins freely with no obstruction.
+
+6. POST-SERVICE CHECKS
+After cleaning, run the machine under normal working load for at least 30
+minutes and monitor oil temperature. Confirm temperature stabilizes within
+the normal operating range rather than continuing to climb.
+
+7. RELATED SYMPTOMS
+Cooler restriction typically presents as performance that is normal when
+the machine is cool but degrades progressively as operating time and oil
+temperature increase. This pattern overlaps with pump wear, so oil
+temperature trend should always be checked before assuming a pump fault.

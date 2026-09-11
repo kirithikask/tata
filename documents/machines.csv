@@ -1,0 +1,4 @@
+machine_id,machine_type,model,manufacture_year,operating_hours,location,status
+EXC-001,Excavator,Tata Hitachi EX210,2019,8450,Site-A,Active
+EXC-002,Excavator,Tata Hitachi EX70,2021,3200,Site-B,Active
+EXC-003,Excavator,Tata Hitachi EX130,2018,11200,Site-A,Maintenance

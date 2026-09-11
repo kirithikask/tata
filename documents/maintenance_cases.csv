@@ -1,0 +1,26 @@
+case_id,machine_id,component,failure,symptoms,resolution
+CASE-001,EXC-001,Hydraulic Pump,Internal pump leakage,Weak digging force,Hydraulic pump repaired
+CASE-002,EXC-002,Hydraulic Pump,Internal pump leakage,Digging force dropped after 2 hours of use,Replaced pump wear plate
+CASE-003,EXC-003,Hydraulic Pump,Internal pump leakage,Arm feels sluggish under load,Rebuilt main pump assembly
+CASE-004,EXC-002,Oil Cooler,Cooler restriction,Slow operation after prolonged use,Cleaned and flushed cooler
+CASE-005,EXC-001,Oil Cooler,Cooler restriction,Machine slows down noticeably after an hour of digging,Replaced fan belt and cleaned fins
+CASE-006,EXC-003,Oil Cooler,Cooler restriction,Operation fine in morning but slows by afternoon,Pressure-washed cooler core
+CASE-007,EXC-001,Hydraulic Filter,Filter blockage,Jerky and inconsistent boom motion,Replaced return line filter
+CASE-008,EXC-002,Hydraulic Filter,Filter blockage,Loss of power during simultaneous functions,Cleaned suction strainer
+CASE-009,EXC-003,Hydraulic Filter,Filter blockage,Gradual power loss over several days,Replaced hydraulic filter element
+CASE-010,EXC-001,Control Valve,Valve problem,Boom does not respond smoothly to lever input,Cleaned and lubricated spool valve
+CASE-011,EXC-002,Control Valve,Valve problem,Arm drifts down on its own when idle,Replaced valve seal kit
+CASE-012,EXC-003,Control Valve,Valve problem,One function works fine but another is weak,Replaced directional control valve
+CASE-013,EXC-001,Accumulator,Accumulator pressure loss,Delayed response when starting boom movement,Recharged accumulator to spec pressure
+CASE-014,EXC-002,Accumulator,Accumulator pressure loss,Jerky start on hydraulic functions after startup,Replaced accumulator bladder
+CASE-015,EXC-001,Hydraulic Oil,Oil contamination,Overall sluggish performance across all functions,Drained and replaced hydraulic oil
+CASE-016,EXC-003,Hydraulic Oil,Oil contamination,Unusual noise and reduced power in all functions,Flushed system and replaced oil
+CASE-017,EXC-002,Hydraulic Oil,Oil contamination,Performance degraded steadily over a month,Replaced with correct oil grade
+CASE-018,EXC-001,Bucket Cylinder,Cylinder leakage,Visible fluid leak near bucket cylinder,Replaced cylinder seal kit
+CASE-019,EXC-003,Boom Cylinder,Cylinder leakage,Boom slowly drops on its own when parked,Rebuilt boom cylinder
+CASE-020,EXC-002,Arm Cylinder,Cylinder leakage,Weak arm force compared to other functions,Replaced arm cylinder assembly
+CASE-021,EXC-001,Pilot System,Pilot pressure problem,Levers feel light and unresponsive,Replaced pilot pressure reducing valve
+CASE-022,EXC-002,Pilot System,Pilot pressure problem,Inconsistent control response across functions,Replaced pilot filter
+CASE-023,EXC-003,Pilot System,Pilot pressure problem,Machine feels unresponsive right after startup,Repaired pilot pump
+CASE-024,EXC-001,Hydraulic Line,Line restriction,Gradual loss of pressure during long digging cycles,Replaced hydraulic hose
+CASE-025,EXC-003,Hydraulic Line,Line restriction,Slow function only on one side of machine,Replaced fitting and line section

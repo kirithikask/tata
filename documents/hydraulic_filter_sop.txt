@@ -1,0 +1,49 @@
+[PROTOTYPE DEMO DOCUMENT -- NOT AN OFFICIAL TATA HITACHI SERVICE DOCUMENT]
+
+HYDRAULIC FILTER - STANDARD OPERATING PROCEDURE
+Excavator Hydraulic System - Filter Inspection and Replacement
+
+1. PURPOSE
+This SOP describes the standard steps for inspecting and replacing hydraulic
+filters (return line filter and suction strainer) on excavators, written for
+the Engineering Memory prototype as demo reference data.
+
+2. WHEN TO INSPECT
+Inspect filters when the bypass indicator is triggered, when jerky or
+inconsistent hydraulic response is reported, after any major hydraulic
+component repair, or at the standard scheduled service interval.
+
+3. SAFETY PREPARATION
+Shut down the engine and relieve system pressure before opening any filter
+housing. Allow hot oil to cool to a safe handling temperature. Have a drain
+pan ready to catch residual oil.
+
+4. RETURN LINE FILTER REPLACEMENT
+Step 1: Locate the return line filter housing near the hydraulic tank.
+Step 2: Clean the exterior of the housing before opening to prevent debris
+entry.
+Step 3: Remove the housing cap and extract the filter element.
+Step 4: Inspect the old element for metal particles, which may indicate
+pump or component wear upstream.
+Step 5: Install a new filter element of the correct part specification.
+Step 6: Reassemble the housing and torque to specification.
+Step 7: Start the engine and check for leaks at the housing.
+
+5. SUCTION STRAINER CLEANING
+Step 1: Drain the hydraulic tank to below the strainer level.
+Step 2: Remove the strainer access panel.
+Step 3: Extract and clean the strainer mesh using an approved solvent.
+Step 4: Inspect the mesh for tears or damage; replace if compromised.
+Step 5: Reinstall the strainer and access panel.
+Step 6: Refill the tank to the correct oil level.
+
+6. POST-SERVICE CHECKS
+After any filter service, run the machine through a full range of
+functions (boom, arm, bucket, swing) and confirm smooth, consistent
+response with no unusual noise. Recheck the bypass indicator after a short
+operating period to confirm it has cleared.
+
+7. RELATED SYMPTOMS
+Filter blockage typically presents as inconsistent or jerky movement across
+functions rather than a gradual, uniform power loss. If symptoms persist
+after filter replacement, investigate pump or valve causes next.
