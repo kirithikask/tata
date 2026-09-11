@@ -1,0 +1,613 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydraulics
+Trouble Shooting Guide
+
+
+
+
+
+
+
+
+TS-Guide_R.doc
+
+
+
+
+Table of Contents
+Condensed Table	1
+Expanded Table
+Valves	3
+Cylinders	3
+Boosters	4
+Fluid Motors	5
+Vane Pumps	6
+Radial Piston Pumps	9
+Hydraulic Systems	11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TS-Guide_R.doc
+
+
+Condensed Table - Causes of Trouble and Their Effects in Hydraulic InstallationsSource of Trouble, Effects1
+Mechanical Drive2
+Suction Line3
+Pump4
+Pressure Line5
+Return Line6
+Pressure ValvesAExcessive Noises1. coupling wrongly aligned
+2. coupling loose
+3. coupling defective
+4. loose mounting n pump and/or motor defective
+5. other transmission elements loose
+6. pump or motor defective
+7. wrong direction of rotation
+8. noise damping not incorporated in designSuction line resistance because:
+1. tap or cock in the suction line closed
+2. suction filter clogged or too small
+3. suction line blocked or leaking
+4. suction line has wrong dimensions (i.e.: ID) or has too many bends
+5. fluid level too low1. pump is turning too fast
+2. max pump pressure exceeded
+3. charge pump defective
+4. shaft seals or seals on suction side are defective
+5. pump defective
+6. pressure and return lines connected wrongly
+7. control system oscillating
+8. As 1 A 81. line mountings missing or loose
+2. lines have been wrongly laid
+3. ID too small
+4. As 4 CAs 4 A
+5. return terminates above fluid level
+6. return filter blocked1. valve chatter due to dirt on valve seat, valve worn
+2. insufficient dampening (unsuitable type)
+3. flow noises when operating
+4. unsuitable characteristic curve
+5. wrong designBInsufficient Power and Torque at the Power Take-offs (pressure too low)1. power transmission defective V-belt or toothed belt slipping
+2. direction of rotation wrong
+3. motor defective
+4. key sheared off at pump or motorAs 2 A1. internal leakage due to wear
+2. unsuitable type
+3. pump defective
+4. end-of-control pressure set too low, or control element defective1. leakages
+2. excessive line resistance
+3. pressure filter blocked1. excessive line resistance
+2. return filter blocked1. operating pressure set too low
+2. internal leakage due to wear
+3. dirty or damaged valve seat
+4. broken spring
+5. unsuitable type (setting range too low)CJerky Cylinder and Motor Movements (variations in pressure and delivery flow)As 1 A 1 thru 7As 2 A1. with variable pumps, the control system is defective
+2. pump defective
+3. system conditions affecting the pump control system (DMV, SRV)
+4. unsuitable pilot valveinstallation not bleed completelyAs 5 BAs 6 A 1 & 2
+3. excessive length of undamped remote control line
+4. unsuitable remote control valveDPower Take-off either does not turn at all, or - too Slowly (insufficient or no delivery flow)As 1 A 1 thru 7As 2 A1. internal leakage due to wear
+2. pump defective
+3. inlet and return lines connected wrongAs 4 BAs 5 BAs 6 B
+with sequential control:
+6. sequence valve setting is too high,
+or valve is defectiveEExcessive Operating Temperature1. reduction in efficiency due to wear
+2. with variable pumps, the control system is defective
+3. rotational speed and/or delivery
+excessive1. ID too small, causing frictional resistance
+2. pressure filter blockedAs 4 E1. constant delivery flow is too high
+2. unsuitable valve type (ID too small)
+3. pressure setting too high
+4. response time too longFFoaming of Hydraulic Fluid1. suction line leaks
+2. fluid level too low
+3. wrongly designed reservoir1. shaft packings or seals on the suction side defective
+2. leakage - oil line terminates above fluid level1. return terminates above fluid level
+2. vortex effect due to wrongly laid linesGCylinder Runs On1. elasticity of
+hoses excessive
+2. lines not bledHLine Shocks when Switching Takes PlaceAs 4 A
+5. the line system storage
+volume is excessivelines loose1. switches too quickly
+2. restrictors or orifices damagedIPump Switches on and off too Often1. pump defective
+2. in the case of accumulator
+installation, the pump is too smallSequence valve or shut off valve has wrong setting
+
+
+
+
+TS-Guide_R.doc	Printed 5/9/02	1
+
+Condensed Table - Causes of Trouble and Their Effects in Hydraulic Installations (continued)Source of Trouble, Effects7
+Flow Control Valves8
+Directional Control Valves9
+Fluid10
+Drive (cylinder, motor, etc.)11
+OthersAExcessive Noises1. valve oscillates and excites the other control elements to oscillation
+2. flow noises
+3. as 3 A 71. valve chatters, due to defective solenoid, or the voltage is too low
+2. valve defective due to dirt or wear
+3. through flow excessive
+4. pilot pressure variations
+5. on valves w/adjustable damping, the adjustment has not been carried out
+6. check the electrical controls1. cavitation problems because:
+a) fluid level too low
+b) viscosity too high (temperature too low)
+2. fluid contaminated and dirty, leading to damage and blockage of equipment
+3. fluid foams1. wear of running surfaces
+2. as 3 A 7BInsufficient Power and Torque at the Power Take-offs (pressure too low)1. pressure losses excessive
+2. false setting
+3. valve defective
+4. unsuitable type1. wrong switched position (e.g. pressureless circulation does not switch off)
+2. solenoid defective
+3. internal leakage due to wear
+4. excessive flow speeds
+5. spool jams1. viscosity too low, excessive leakages
+2. viscosity too high, excessive flow resistance
+3. fluid foams1. internal leakages (e.g. cylinder packing is worn)
+2. refer to 10 A
+3. excessive internal friction (low efficiency)1. in the case of pressure controls, there is a defect in the open-loop (or closed-loop) control circuit)
+2. display instruments defectiveCJerky Cylinder and Motor Movements (variations in pressure and delivery flow)1. valve dirty
+2. As 7 A 1As 8 A1. hydraulic fluid dirty
+2. hydraulic fluid foams1. Stick-slip effect due to the friction of the cylinder packings being too high.
+2. operating below lower limit of motor speedinsufficient load counter-balance (e.g. lowering control valve)DPower Take-off either does not turn at all, or - too Slowly (insufficient or no delivery flow)1. through flow set too low
+2. unsuitable type(setting range too low)
+3. valve blocked (dirt)As 8 B
+5. spool sticking
+6. manually operated valves (cocks) not in through flow positionAs 9 BAs 10 B
+4. power take-off blocked (.g. piston seizure)1. conditions for starting not fulfilled (pump control system defective)
+2. electrical in-line open circuit (plug in connections)
+3. signaling elements (e.g. pressure switch wrongly set or defective, limit switch not contactedEExcessive Operating Temperature1. through flow set too low (excessive pump delivery through pressure relief valve)
+2. valve defective1. leakage losses too high
+2. pressure circulation fails to switch on
+3. spool stickingAs 9 B1. losses in efficiency due to wear
+2. internal friction too high (poor level of efficiency)
+3. internal leakage losses1. cooling performance of the assembly (or installation) insufficient in relation to the installed power or the operating time.
+2. pressureless circulation not provided (or does not switch on) during long working breaks (with pump still running)
+3. insufficient hydraulic fluid in the installation
+4. coolant valve fails to switch
+5. thermostat set too high
+6. coolant not switched on or no coolant available, an defective
+7. coolant temperature too high
+8. surrounding temperature too high
+9. deposits in radiator
+10. insufficient heat dissipation due to noise reduction measuresFFoaming of Hydraulic FluidUnsuitable makeGCylinder Runs On1. switching time set too low
+2. defective solenoid cause leakage in valve
+3. valve dirty1. internal leakages
+2. faulty bleeding1. pilot controlled check valve fails to close immediately because:
+a) seat is dirty or damaged
+b) technical switching fault
+2. limit switch fails to switchHLine Shocks when Switching Takes Place1. switching time set too fast
+2. unsuitable type (opening cross- section changes too
+quickly)Foaming of the hydraulic fluid1. excessive forces and masses
+2. no dampingin accumulator installations, throttles have not been fitted in front of the switching valvesIPump Switches on and off too Oftenin installations w/accumulators,
+1. the gas precharge too low
+2. bladder (diaphragm) defective
+3. pressure switch set incorrectly
+
+TS-Guide_R.doc	Printed 5-9-02	2
+
+TROUBLECAUSEREMEDY
+1.	Dirt in system
+1.
+Drain and flush system. Disassemble and clean, if necessary.VALVE2.	Restricted drain2.Small fittings or pipe.SPOOLRESPONSE3.	Pilot pressure low3.Check pilot pressure system.SLUGGISH4.	Malfunctions of solenoids4.Check for proper source voltage and frequency. Removesolenoid and check fields.5.	Distortion of valve body5.Align body and piping to remove strains.
+1. Dirt in system
+
+2. Blocked drain
+
+3. Pilot pressure off
+
+4. Solenoids inoperative
+
+5. Distortion
+
+6. Improper re-assembly after overhaul
+1.
+Disassemble, clean, and flush.2.Inspect for plugs or foreign matter.VALVESPOOL3.Check source of pilot pressure.FAILS TOMOVE4.Check electrical source and solenoid fields.5.Align body and piping to remove strains.6.Use parts drawing to check proper assembly.
+VALVE PRODUCES UNDESIRED RESPONSE
+1. Improper installation connections
+
+2. Improper assembly of valves
+
+3. Spool installed backwards
+1.
+
+
+2.
+Check installation drawings.
+
+
+Check parts and drawings.3.Reverse spool end for end.
+CYLINDERS
+TROUBLECAUSEREMEDY
+1.	Valves sticking or binding
+1.
+Check for dirt or gummy deposit. Check for contamination of oil. Check for air in system. Check for worn parts. Excessive wear may be due to oil contamination.2.	Cylinder sticking or binding2.Check for dirt, gummy deposits or air leaks as above. Check for misalignment, worn parts or defective packing.
+
+ERRATIC ACTION3.	Sluggish operation during warm-up period3.Viscosity of oil too high or pour point too high at starting temperature. Change to oil with lower viscosity or better viscosity index and lower pour point. An immersion heater placed in the oil may help under severe cold conditions.4.	Pilot control pressure too low4.Control line may be too small, or metering choke valve not working properly.5.	Internal leakage in cylinder5.Repair or replace worn parts and loose packing. Check oil to see that viscosity is not too low. Check for excessive contamination or wear.6.	Air in system6.Bleed air and check for leaks. Check to see that oil intake is well below surface of oil in reservoir. Check pump packing and line connections on intake side by pouring hydraulic oil over suspected leak. If noise stops, the leak has been located.
+Tighten joints or change packing or gaskets where necessary.
+TROUBLECAUSEREMEDY
+1.	Sequence valve set too high	1.
+Back off pressure adjusting screw of sequence valve until booster starts to operate.2.	Valve closed between pump and	2.
+boosterCarefully check piping and valving.3.	Valve closed between booster exhaust	3. and reservoirRemove all valving from this line unless the function and operation of such valving is thoroughly understood.4.	Pump not delivering oil or developing	4.
+insufficient pressureSee pump trouble chart.BOOSTER NOT OPERATING
+5.	Orifice at ends of control spool plugged	5. with foreign matter
+Remove pipe plugs on both ends of booster body and clean orifice with air or wire.6.	Pilot ram or pilot piston are tight or	6.
+stickingRemove plugs outside pilot pistons on each end of booster. Check tightness of rams and pistons with 3/16" cap screw. Look for dirt or chips. Dress with crocus cloth if necessary.7.	Main operating ram jammed	7.Remove one or both heads as necessary for inspection. Renew main piston if badly scored by foreign matter. Whenever the heads are removed from the booster, the head gaskets and the high pressure seal between the head and the booster body must be replaced with new ones.8.	Check valves jammed	8.Inspect the four check valve assemblies for damage. When reassembling, do not force spring seat into place too hard.
+1.	Booster not operating	1.
+See section entitled "Booster Not Operating."2.	Excessive leakage of high pressure	2.See section entitled "Booster Operating Rapidly and Continuously."BOOSTER NOT DEVELOPING SUFFICIENT
+PRESSURE3.	Pump pressure not adjusted properly	3.Booster pressure will be in proportion to pump pressure according to ratio stamped on booster. Adjust pump to desired pressure.4.	Back pressure in booster exhaust line	4.Inspect exhaust line for restriction. Should be 1" standard pipe area to reservoir. Remove any valves in this line unless function is thoroughly understood.5.	Spring loaded resistance valve between	5. pump and boosterPressure drop between pump and booster will affect apparent booster ration. A small hole drilled in disc of resistance valve, if used, will allow proper pressure ratio at end of cylinder stroke.
+TROUBLECAUSEREMEDY
+1.	Incorrect valving in circuit
+1.
+See circuit drawing for typical booster circuit. Sequence and check valves or adequate substitutes are usually essential in most booster circuits.
+BOOSTER OPERATING RAPIDLY AND CONTINUOUSLY WITHOUT BUILDING UP PRESSURE2. Sequence valve incorrectly adjusted
+
+
+
+
+3. Excessive leakage of high pressure in valves between booster and cylinder or in cylinder packing2.
+
+
+
+
+3.Tighten pressure adjusting screw sufficiently to prevent booster from operating. With correct pump pressure adjustment, and with operating cylinder at end of stroke, back off adjusting screw until booster operates.
+
+Locate point of leakage by isolating high pressure in separate pieces of equipment.
+4.	Excessive leakage of high pressure within booster
+4.
+Isolate booster to verify source of trouble. Tighten head bolts. Lap or replace four high pressure check valves as needed. If trouble continues, remove heads and inspect ram for scoring.
+Replace ram and "O" ring assemblies with new parts if needed. Replace rings on small ram. Excessive force may cause spring seat to buckle, jamming check valve.
+FLUID MOTORS
+TROUBLECAUSEREMEDYMOTOR
+TURNING IN WRONG DIRECTION
+1. Incorrect piping between control valve and motor
+1.
+Check circuit to determine correct piping.
+1. System overload relief valve adjustment not set high enough
+1.
+Check system pressure and reset relief valve.
+MOTOR NOT TURNING OVER OR NOT DEVELOPING PROPER SPEED OR TORQUE2. Relief valve sticking open
+
+3. Free recirculation of oil to reservoir being allowed through system2.
+
+3.Remove dirt under pressure adjustment ball or piston.
+
+Directional control valve may be in open center neutral or other return line unintentionally open. Repair or replace valve.4. Driven mechanism binding because of misalignment4.Remove motor and check torque requirement of driven shaft.5. Pump not delivering sufficient pressure or volume5.Check pump delivery and pressure.6. Motor yoke not set at proper angle (on adjustable motors)6.Adjust pump yoke angle by means of hand wheel.
+EXTERNAL OIL LEAKAGE FROM MOTOR
+1. Gaskets leaking (may be due to reservoir drain not being connected if this is required).
+1.
+Replace (if drain line required, it must be piped directly to reservoir).
+TROUBLECAUSEREMEDY
+1.	Wrong direction of pump rotation
+1.
+Observe arrow on pump case. Direction of rotation must correspond.2.	Low oil level2.Fill reservoir so that surface of oil is well above end of suction line during all of work cycle.3.	Wrong type of oil3.Use a good, clean hydraulic oil having the viscosity in accordance with recommendations.4.	Pump running too fast4.Reduce speed. Speeds above rating are harmful and cause early failure of pumps. Refer to pump ratings.5.	Coupling misalignment5.Re-align pump and motor accurately. Align to within 0.005" total indicator reading.6.	Reservoir not vented6.Vent reservoir through air filter to allow breathing action for fluctuating oil level.7. Air leak in suction line. Air leak in case drain line. Air leak around shaft packing7.Pour hydraulic oil on joints and around shaft while listening for change in sound of operation. Tighten as required.
+
+EXCESSIVE PUMP NOISE8. Restricted flow through suction piping
+
+9. Air bound pump8.
+
+
+9.Check suction piping and fittings to make sure full size is used throughout. Make sure suction line is not plugged with rags or other foreign material. Avoid excessively long suction lines.
+
+Air is locked in pumping chamber and has no way to escape. Stop pump immediately. Before restarting, partially open pressure line or install special bypass line back to tank so that air can pass out of the pump.10. Slip line (case drain) does not terminate below oil level10.Extend slip line piping so that it terminates below the oil surface when oil is at its lowest level during any one machine cycle.11. Worn pressure ring11.Replace. This condition caused by hot, thin, dirty oil or no oil at all. An air bound condition (#9 above) will also contribute to the worn pressure ring.12. Restricted filter or strainer12.Clean filter or strainer. Calculate required size and add 100% to allow for partial blocking by dirt.13. Air bubbles in intake line13.Provide reservoir with baffles. All return lines to reservoir must be below oil surface, and on opposite side of the baffle from intake lines.14. Sticking vane14.Remove cover assembly and check rotor and vanes for presence of metal chips or sticky oil. Some pump models have chamfered edges on the vanes. See pump drawings for proper installation.15. Two pumps to common manifold15.A check valve must be placed in the discharge line of the pump which has the lowest pressure to prevent back flow and surging. This check valve must also be present if an accumulator is in the discharge line.16. Reservoir air vent plugged16.Air must be allowed to circulate in the reservoir. Clean and/or replace breather.17. Worn or broken parts17.Replace.
+TROUBLECAUSEREMEDY
+1.	Pump operated at higher pressures than required
+1.
+Reduce pump pressure to minimum required for installation.2.	Pump discharging through relief valve2.Remove relief valve. Relief valves are not required with pumps having spring or hydraulic pressure compensating governor (relief valves create additional heat).3.	Pump not unloaded during idle periods of machine operating cycle3.Use open center valve, or two-stage pressure compensating governor, when applicable.4.	Insufficient cooling facilities4.Install oil cooler. Increase reservoir capacity.SYSTEM EXCESSIVELY HOT5.	Excessive pump slippage5.Tighten bolts on cover. Add shims between cover and cover plate except on Model K pumps. Remove shims to tighten Model K pumps.6.	Pump drain line too close to pump suction line returning heated oil back into the pump6.Separate the drain and suctions lines by a baffle in the reservoir. Place the drain line in a location where it must travel the farthest distance practical before the oil re-enters the pump.7.	Excessive system leakage through cylinders or valves7.Check progressively through the system for excessive leakage.8.	High ambient or radiant temperature8.Relocate power unit, or baffle against radiant heat.9.	Low oil in reservoir9.Bring level of oil up to recommended point.10. Excessive friction10.Internal parts may be too tight. Reshim.11. Reservoir too small11.Increase size or install auxiliary cooling equipment.12. Restricted or undersize valves on hydraulic lines12.Clean valves and piping. Use adequate pipe sizes.
+1. Pump not delivering oil
+
+2. Pressure adjusting screw not set high enough
+
+3. Pressure being relieved through relief valve
+
+4. Oil bypassing to reservoir
+
+5. Pressure ring sticking
+
+6. Governor piston sticking
+
+7. Defective pressure gauge, gauge line is shut off
+
+8. Vane or vanes stuck in rotor slots
+
+9. Pump running too slowly
+1.
+See trouble section headed "Pump Not Delivering Oil."2.Set adjusting screw to obtain desired operating pressure.
+3.
+Remove relief valve. Relief valve is not required with pumpshaving spring or hydraulic pressure compensating governorfeature (relief valves create additional heat).PUMP NOT4.Test circuit pressure progressively. Watch for open-centerDELIVERINGvalves or other valves open to reservoir.PRESSURE5.See No. 14 under "Pump Not Delivering Oil."6.Inspect governor for dirt or excessive scoring.7.Install pressure gauge known to be accurate in a line opento pump pressure.8.Inspect for wedged chips or sticky oil.
+9.
+Check minimum speed recommendations.
+TROUBLECAUSEREMEDY
+1.	Adjusting screw for pressure adjustment too loose
+1.
+Tighten adjusting screw three to five turns after spring tension is felt.2.	Wrong direction of pump rotation2.Observe arrow on pump case or nameplate. Direction of rotation must correspond.3.	Oil level low in reservoir3.Maintain oil level in reservoir well above bottom of suction line at all times.4.	Pump running too slowly4.Increase speed. Check minimum speed recommendations to be sure of proper priming.5.	Air leak in suction line5.Tighten joints and apply good pipe compound, non-soluble in oil.6.	Oil viscosity too heavy for proper priming6.Thinner oil should be used, per recommendations for given temperatures and service.7.	Maximum volume control turned in too far7.Turn counterclockwise on Volume Control adjusting screw to increase delivery.PUMP NOT DELIVERING OIL
+8.	Bleed-off in other portion of circuit
+8.
+Check for open center valves or other controls connected with a tank port.9.	Suction line or suction filter plugged9.Filters must be cleaned of lint or dirt soon after the unit is first started. Periodic checks should be made as a preventive maintenance precaution.10. Pump cover too loose10.Tighten bolts on pump cover. Add shims between cover and cover plates except on Model K pumps. Remove shims to tighten Model K pumps.11. Broken pump shaft or rotor11.Replace broken parts. Check for signs of excessive shock, dirt, foreign material, or other probable causes of failure.12. Sheared key at rotor or coupling12.Check and replace where required.13. Pump shaft turning too slowly13.Check minimum speed recommendations.14. Pressure ring sticking14.Loosen bolts on cover to prove theory, or remove governor assembly and volume control assembly and manually check to see if ring is tight. If pump has no volume control assembly, the thrust block may be removed to expose the ring for checking. If ring proves to be tight, reduce number of shims between cover and cover plate except on Model K pump. Add shims to loosen Model K pump.
+1. Abrasives on pump shaft
+
+2. Packing damaged at installation. Scratched or damaged shaft seal
+
+3. Coupling misalignment
+
+4. Pressure in pump case
+
+5. Oil too hot
+1.
+Protect shaft from abrasive dust and foreign material.2.Replace oil seal assembly. Packing should be eased on shaftcarefully avoiding cuts from passing over key way.LEAKAGEATOIL SEAL3.Re-align pump and motor shafts. Align to within 0.005" totalindicator reading.4.Inspect case drain line for restriction. Should be full pipe sizedirect to reservoir.5.See trouble section headed "System Excessively Hot."
+TROUBLECAUSEREMEDY
+
+LACK OF VOLUME
+1. Dirt or chips under vanes holding pressure ring on center
+
+2. Governor piston stuck
+
+3. Pressure ring sticking
+1.
+
+2.
+
+3.
+Pump should be dismantled and inspected for dirt or chips.
+Check governor piston for freeness of movement. See No. 14 under "Pump Not Delivering Oil."
+1.	Chips or other foreign matter in bearings
+1.
+Make sure clean oil is used. Essential for efficient operation and long life of bearings.2.	Coupling misalignment2.Re-align pump and motor shafts. Align to within 0.005" total indicator reading.3.	Excessive or shock loads3.Reduce operating pressure. Observe maximum rating of operating pressure.BEARING FAILURE
+4.	System excessively hot
+4.
+See trouble section headed "System Excessively Hot" (heat breaks down lubricating qualities of hydraulic oil).5.	Overhung load5.Typically, pumps are not designed to handle any overhung load or side thrust on the drive shaft. Make provision for outboard bearings to alleviate this condition.6.	Electric motor shaft end play or driving or hammering coupling on or off pump shaft6.Typically, pumps are not designed to handle end thrusts against the drive shaft. Eliminate all end play on electric motors. Couplings should be a slip fit onto the pump shaft.7.	Incorrect fluid7.See oil recommendations.
+1.	Motor not properly sized for pressure and volume requirements
+1.
+Contact your AFS representative for recommendations.2.	Pump delivering full volume through relief valve2.Remove relief valve. Relief valve is not required with pumps having spring or hydraulic pressure compensating governor feature (relief valves create additional heat).OVERLOADING MOTOR3.	Excessive internal slippage in pump3.Tighten bolts on pump cover. Add shims between cover and cover plates except on Model K pumps. Remove shims to tighten Model K pumps.4.	Starting pump with full pressure and volume4.Use motor with higher starting torque or start pump with valve closed so no oil will flow.
+5.	Motor overload protection undersized
+5.
+Install larger capacity unit and bigger heaters.
+6.	Low voltage
+6.
+Install larger wire leads.7.	Motor wired for wrong voltage7.Check motor leads for proper voltage connections.
+TROUBLECAUSEREMEDY
+1.	Air leak in suction line. Air leak around shaft seal
+1.
+Pour hydraulic oil on joints and around shaft seal while watching pressure gauge and listening to sound of pump. Steadying of pressure gauge indicates leakage. Replace seal or tighten joints in suction line.2.	Low oil level in reservoir2.Fill reservoir so that surface of oil is well above end of suction line during all of machine cycle.3.	Air bubbles in intake line3.Provide reservoir with baffles. All return lines must be below oil surface and away from intake line.
+EXCESSIVE PUMP NOISE4. Restricted filter
+
+5. Restricted flow through suction line4.
+
+5.Clean filter. Calculate required size and add 100% for partial blocking by dirt.
+
+Check suction piping and fittings to make sure full size is used throughout. Make sure suction line is not plugged with rags or other foreign material.6.	Reservoir not vented6.Vent reservoir through air filter.7.	Coupling misalignment7.Motor and coupling must be aligned to within 0.005" total indicator reading.8.	Wrong type oil8.Use good, clean hydraulic oil having a viscosity of 60-300 SUS at running temperature.9.	Piston hanging up9.Loosen piston cap while pump is running, allowing oil to free piston. Tighten again after piston is moving freely.10. Running in wrong direction10.If self-primer is used, rotation must be correct as indicated by arrow.
+1.	Pump not unloaded during idle periods of machine operating cycle
+1.
+Install unloading device in high pressure line. Unload pump whenever possible.
+SYSTEM EXCESSIVELY HOT2. Insufficient cooling facilities
+
+3. Pressure set too high2.
+
+3.Install heat exchanger of proper size to control temperature of the oil.
+
+Use only pressure required to provide satisfactory operation of machine.4.	Excessive system leakage through cylinders or valves4.Check progressively through the system for excessive leakage.5.	High ambient or radiant temperatures5.Relocate power unit, or baffle against radiant heat.
+
+
+LEAKAGE AT OIL SEAL
+1. Abrasive on pump shaft
+
+2. Packing damaged in installation
+
+3. Excessive inlet pressure
+
+4. Improper fluid
+
+5. Oil too hot
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+Protect shaft from abrasive dust and foreign material. Replace oil seal.
+
+High pressure seal modification must be used. Special seals are needed for synthetic fluids.
+Seal breaks up at high temperatures. Reduce temperature.
+RADIAL PISTON PUMPS (cont.)	Expanded Table
+TROUBLECAUSEREMEDY
+
+
+BEARING FAILURE
+1. Coupling misalignment
+
+2. Chips or other foreign material in bearing
+
+3. Incorrect fluid
+
+4. Electric motor end play
+
+5. Pump running too fast
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+Re-align pump and motor.
+
+Make sure clean oil is used. Essential to efficient operation and long life of bearings.
+
+See oil recommendations.
+
+Do not allow motor shaft to butt up against pump shaft. Allow clearance in coupling.
+
+1,800 rpm is maximum allowable speed.
+
+
+PUMP NOT DELIVERING OIL
+1. Air leak in suction line
+
+2. Pump not free of air
+
+3. Hollow piston sticking in cylinder sleeve
+
+4. Insufficient supply of oil in pump
+
+5. Sheared key at coupling
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+Check and tighten all connections in inlet piping.
+
+Back out cylinder sleeves until oil flows freely and pump is free of air.
+
+Check gauge for erratic flutter and listen for noise in pump.
+
+Check volume of oil that will free flow through inlet line at pump.
+
+Check and replace if required.
+
+
+PUMP NOT DELIVERING PRESSURE
+1. Pump not delivering oil
+
+2. Relief valve set too low
+
+3. Relief valve not functioning properly
+
+4. Oil bypassing
+
+5. Excessive system leakage through cylinders and valves
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+See section on "Pump Not Delivering Oil."
+
+Relief valve regulates the maximum pressure the pump will put out.
+
+Seat may be worn or springs may be broken
+
+Test circuit progressively. Watch for open-center valves or other valves open to reservoir.
+
+Check progressively through system for excessive leakage.
+HYDRAULIC SYSTEMS
+TROUBLECAUSE	REMEDY
+
+EXCESSIVE WEAR
+1. Abrasive matter in the hydraulic oil being	1.	Install adequate filter or replace oil more often. circulated through the pump
+
+2. Viscosity of oil too low at working conditions	2.	Check component minimum viscosity
+recommendations.
+
+3. Sustained high pressure above maximum	3.	Reduce pump pressure to minimum required for pump rating or higher than system		installation.
+requirements
+
+4. Drive misalignment	4.	Check and correct.
+
+5. Air recirculation causing chatter in system	5.	Remove air from system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
